@@ -1,10 +1,10 @@
-# Hi, I'm Efe 👋
+# Hi, I'm Efe
 
-QA Automation Engineer (Entry-Level) | Selenium • Java • API Testing
+QA Automation (Entry-Level) | Selenium, Java, API Testing
 
-I am a Boston-based Data Analytics student with hands-on experience in software testing and QA automation. I enjoy identifying bugs, improving system reliability, and working with real-world test scenarios.
+I’m a Boston-based Data Analytics student with hands-on experience in QA and test automation. I’ve worked with Selenium, Java, REST APIs, and SQL, focusing on writing tests, finding bugs, and improving reliability.
 
-## 🔧 Tech Stack
+## Tech
 - Selenium WebDriver
 - Java
 - REST API Testing (Postman, REST Assured)
@@ -13,14 +13,10 @@ I am a Boston-based Data Analytics student with hands-on experience in software 
 - Jira
 - Git / GitHub
 
-## 🚀 Projects
-- UI Automation Testing (Selenium + Java)
-- API Testing (REST Assured)
+## Projects
+Currently building:
+- UI automation tests (Selenium + Java)
+- API testing projects (REST Assured)
 
-## 🎯 Currently
-- Building QA automation projects
-- Improving testing and automation skills
-- Exploring AI-related technologies
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/efeyozer/
+## Contact
+LinkedIn: https://www.linkedin.com/in/efeyozer/

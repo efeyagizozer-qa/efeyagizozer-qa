@@ -1,6 +1,6 @@
 # Hi, I'm Efe
 
-QA Automation (Entry-Level) | Selenium, Java, API Testing
+QA Automation Engineer | Selenium, Java, API Testing
 
 I’m a Boston-based Data Analytics student with hands-on experience in QA and test automation. I’ve worked with Selenium, Java, REST APIs, and SQL, focusing on writing tests, finding bugs, and improving reliability.
 

@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Efe 👋
 
-<!--
-**efeyagizozer-qa/efeyagizozer-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer (Entry-Level) | Selenium • Java • API Testing
 
-Here are some ideas to get you started:
+I am a Boston-based Data Analytics student with hands-on experience in software testing and QA automation. I enjoy identifying bugs, improving system reliability, and working with real-world test scenarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Selenium WebDriver
+- Java
+- REST API Testing (Postman, REST Assured)
+- SQL
+- Test Automation
+- Jira
+- Git / GitHub
+
+## 🚀 Projects
+- UI Automation Testing (Selenium + Java)
+- API Testing (REST Assured)
+
+## 🎯 Currently
+- Building QA automation projects
+- Improving testing and automation skills
+- Exploring AI-related technologies
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/efeyozer/
